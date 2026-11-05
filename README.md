@@ -24,7 +24,7 @@ Connect the retrieved information with the Groq AI model, create the chatbot int
 
 ### PROGRAM:
 
-```
+```py
 import os
 import panel as pn
 
